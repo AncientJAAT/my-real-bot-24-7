@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "delhi-1330.indernos.in",
+    "ip": "delhi-6301.indernos.in",
     "port": 31659,
     "version": "1.20.1",
     "try-creative": false
